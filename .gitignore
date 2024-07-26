@@ -1,0 +1,11 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency.directories
+# node_modules/ 폴더를 깃으로 관리하지 않겠다고 지정
+node_modules/
+
+# Runtime data
+
